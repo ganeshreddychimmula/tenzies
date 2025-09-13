@@ -2,7 +2,7 @@
   "name": "tenzies",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://ganeshreddychimmula.github.io/tenzies",
+  "homepage": "https://ganeshreddychimmula.github.io/tenzies",
   "type": "module",
   "scripts": {
     "dev": "vite",
