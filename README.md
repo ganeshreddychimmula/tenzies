@@ -2,6 +2,12 @@
 
 Has both plain JS and TS verwsions
 
+## Screenshots
+
+![](src\screenshots\1.png)
+![](src\screenshots\2.png)
+![](src\screenshots\3.png)
+
 
 Currently, two official plugins are available:
 
